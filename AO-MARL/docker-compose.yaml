@@ -1,0 +1,17 @@
+services:
+  pytorch:
+    build:
+      context: .  # 指定 Dockerfile 所在目录
+      dockerfile: Dockerfile  # 指定 Dockerfile 文件名
+    container_name: AO-MARL
+    runtime: nvidia  # 启用 GPU 支持
+    shm_size: '20gb'
+    volumes:
+      - $PWD:/workspace/AO-MARL  # 挂载代码路径
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all  # 启用所有 GPU
+      - SHESHA_ROOT=/workspace/AO-MARL/
+    working_dir: /workspace/AO-MARL  # 设置工作目录
+    tty: true  # 保持容器运行
+    # stdin_open: true  # 保持标准输入打开
+    # entrypoint: "pip3 install tensorboardX matplotlib scipy gym"

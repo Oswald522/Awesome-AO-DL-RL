@@ -9,6 +9,8 @@
 | [AO-MARL](https://github.com/Tomeu7/AO-MARL)| Multi-Agent AO+RL| SHWFS  | Adaptive Optics control with Multi-Agent Model-Free Reinforcement Learning(2022)[![DOI](https://zenodo.org/badge/doi/10.1364/OE.444099.svg)](https://doi.org/10.1364/OE.444099) |
 | [Integrating-SL-and-RL-for-AO](https://github.com/Tomeu7/Integrating-SL-and-RL-for-AO) | UNET + RL| PYWFS   | Integrating supervised and reinforcement learning for predictive control with an unmodulated pyramid wavefront sensor for adaptive optics(2024)[![DOI](https://zenodo.org/badge/doi/10.1364/oe.530254.svg)](https://doi.org/10.1364/oe.530254)|
 |[MOSS-DDPG](https://github.com/xgz0921/MOSS-DDPG)| RL|sensorless|Image metric-based multi-observation single-step deep deterministic policy gradient for sensorless adaptive optics(2024)[![DOI](https://zenodo.org/badge/doi/10.1364/BOE.528579.svg)](https://doi.org/10.1364/BOE.528579)|
+|[adaptive_optics_gym](https://github.com/payamparvizi/adaptive_optics_gym)|PPO+DDPG+SAC|sensorless|Reinforcement Learning Environment for Wavefront Sensorless Adaptive Optics in Single-Mode Fiber Coupled Optical Satellite Communications Downlinks(2023)[![DOI](https://zenodo.org/badge/doi/10.3390/photonics10121371.svg)](https://doi.org/10.3390/photonics10121371)|
+|[MPC-SensorlessAO](https://github.com/jinsungkim96/MPC-SensorlessAO)|MPC+matlab|sensorless|Model Predictive Control of Time-Varying Aberrations for Sensorless Adaptive Optics(2022)[![DOI](https://zenodo.org/badge/doi/10.1109/TCST.2022.3205729.svg)](https://doi.org/10.1109/TCST.2022.3205729)|
 
 ---
 未完待续：
@@ -17,9 +19,8 @@
 - [TelescopeReinforcementLearning](https://github.com/Faruman/TelescopeReinforcementLearning)
 - [adaptive_optics_ml](https://github.com/ZoyaV/adaptive_optics_ml)
 - [ML4AO](https://github.com/HeSunPU/ML4AO)
-- [adaptive_optics_gym](https://github.com/payamparvizi/adaptive_optics_gym)
+- ~~[adaptive_optics_gym](https://github.com/payamparvizi/adaptive_optics_gym)~~
 - [Machine-Learning-and-System-Identification-for-Adaptive-Optics](https://github.com/AleksandarHaber/Machine-Learning-and-System-Identification-for-Adaptive-Optics)
-- [MPC-SensorlessAO](https://github.com/jinsungkim96/MPC-SensorlessAO)
 
 ---
 

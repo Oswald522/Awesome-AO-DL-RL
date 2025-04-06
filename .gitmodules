@@ -4,6 +4,12 @@
 [submodule "MOSS-DDPG"]
 	path = MOSS-DDPG
 	url = https://github.com/xgz0921/MOSS-DDPG.git
-[submodule "AO-MARL"]
-	path = AO-MARL
+[submodule "AO-MARL/AO-MARL"]
+	path = AO-MARL/AO-MARL
 	url = https://github.com/Tomeu7/AO-MARL.git
+[submodule "MPC-SensorlessAO"]
+	path = MPC-SensorlessAO
+	url = https://github.com/jinsungkim96/MPC-SensorlessAO
+[submodule "adaptive_optics_gym"]
+	path = adaptive_optics_gym
+	url = https://github.com/payamparvizi/adaptive_optics_gym
