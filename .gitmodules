@@ -1,0 +1,9 @@
+[submodule "Integrating-SL-and-RL-for-AO"]
+	path = Integrating-SL-and-RL-for-AO
+	url = https://github.com/Tomeu7/Integrating-SL-and-RL-for-AO
+[submodule "MOSS-DDPG"]
+	path = MOSS-DDPG
+	url = https://github.com/xgz0921/MOSS-DDPG.git
+[submodule "AO-MARL"]
+	path = AO-MARL
+	url = https://github.com/Tomeu7/AO-MARL.git
